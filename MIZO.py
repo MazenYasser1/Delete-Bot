@@ -11,7 +11,7 @@ import asyncio
 # start Pyrogram App 
 app = Client(
     name="rad", 
-    bot_token=Mazen.MAZEN, 
+    bot_token=Mazen.BOT_TOKEN, 
     api_hash=Mazen.API_HASH, 
     api_id=Mazen.API_ID
 )
