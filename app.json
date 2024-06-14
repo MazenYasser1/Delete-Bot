@@ -9,7 +9,7 @@
 		"pyrogram"
 	],
     "env": {
-        "BOT_TOKEN": {
+        "TETO": {
             "description": "Your Telegram Bot Token from @BotFather",
             "value": ""
         },

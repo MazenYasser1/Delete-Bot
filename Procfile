@@ -1,1 +1,1 @@
-worker: python3 -m MAZEN
+worker: python3 -m TETO
