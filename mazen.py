@@ -2,7 +2,7 @@ import os
 
 
 class Mazen(object):
-    MAZEN = os.environ.get("MIZO", "")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
     
     API_ID = os.environ.get("API_ID", "27455984")
     
